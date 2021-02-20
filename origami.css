@@ -1,0 +1,19 @@
+*{border:solid}
+.header{
+background-color: hotpink;
+display : flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.bodyimg{
+background-color: hotpink;
+display : flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.grid{
+    background-color: hotpink;
+    display : flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
