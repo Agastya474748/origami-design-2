@@ -11,9 +11,10 @@ display : flex;
 justify-content: space-between;
 flex-wrap: wrap;
 }
-.grid{
+.origami{
     background-color: hotpink;
     display : flex;
     justify-content: space-between;
     flex-wrap: wrap;
     }
+            
